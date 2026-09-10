@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-09-09T22:08:36.849Z",
+  "generated_at": "2026-09-10T00:44:41.025Z",
   "sites": {
     "14roc": {
       "slug": "14roc",
       "name": "14Roc",
       "url": "https://14roc.com",
-      "status": "warning",
-      "issues": [
-        "Slow response (8.0s)"
-      ],
+      "status": "live",
+      "issues": [],
       "code": 200,
-      "ms": 8013,
+      "ms": 184,
       "visual": {
         "diff_pct": 65.05
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.709Z"
+      "checked_at": "2026-09-10T00:44:40.835Z"
     },
     "3on7fuel": {
       "slug": "3on7fuel",
@@ -24,13 +22,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 120,
+      "ms": 158,
       "visual": {
         "diff_pct": 99.18
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.709Z"
+      "checked_at": "2026-09-10T00:44:40.835Z"
     },
     "401homebuyer": {
       "slug": "401homebuyer",
@@ -39,12 +37,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 1900,
+      "ms": 2199,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.709Z"
+      "checked_at": "2026-09-10T00:44:40.835Z"
     },
     "abellonainn": {
       "slug": "abellonainn",
@@ -53,13 +51,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 135,
+      "ms": 189,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.709Z"
+      "checked_at": "2026-09-10T00:44:40.835Z"
     },
     "agrocouncil": {
       "slug": "agrocouncil",
@@ -68,13 +66,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 244,
+      "ms": 345,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.835Z"
     },
     "ahmesconstruction": {
       "slug": "ahmesconstruction",
@@ -83,13 +81,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 319,
+      "ms": 278,
       "visual": {
         "diff_pct": 1.59
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.835Z"
     },
     "aidenflagstaff": {
       "slug": "aidenflagstaff",
@@ -98,13 +96,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 263,
+      "ms": 386,
       "visual": {
         "diff_pct": 50.49
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "alegnasoap": {
       "slug": "alegnasoap",
@@ -113,13 +111,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 310,
+      "ms": 426,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "americanbeech": {
       "slug": "americanbeech",
@@ -128,13 +126,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 409,
+      "ms": 421,
       "visual": {
         "diff_pct": 6.37
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "americanbeechvt": {
       "slug": "americanbeechvt",
@@ -143,13 +141,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 330,
+      "ms": 497,
       "visual": {
         "diff_pct": 70.51
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "anchorgroupmgmt": {
       "slug": "anchorgroupmgmt",
@@ -158,13 +156,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 345,
+      "ms": 353,
       "visual": {
         "diff_pct": 0.22
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "anchorinnbeachhouse": {
       "slug": "anchorinnbeachhouse",
@@ -173,13 +171,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 374,
+      "ms": 373,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "anenglishgardenbb": {
       "slug": "anenglishgardenbb",
@@ -188,13 +186,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 227,
+      "ms": 343,
       "visual": {
         "diff_pct": 4.93
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "annegouldcollegeadvisor": {
       "slug": "annegouldcollegeadvisor",
@@ -203,13 +201,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 326,
+      "ms": 317,
       "visual": {
         "diff_pct": 68.71
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "apminn": {
       "slug": "apminn",
@@ -218,13 +216,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 322,
+      "ms": 259,
       "visual": {
         "diff_pct": 0.01
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "aquabluehotels": {
       "slug": "aquabluehotels",
@@ -233,13 +231,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 375,
+      "ms": 225,
       "visual": {
         "diff_pct": 1.83
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "aquahotelbeachclub": {
       "slug": "aquahotelbeachclub",
@@ -248,12 +246,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 5318,
+      "ms": 222,
       "visual": {
         "diff_pct": 0.57
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "aquastarinn": {
       "slug": "aquastarinn",
@@ -262,13 +260,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 310,
+      "ms": 232,
       "visual": {
         "diff_pct": 82.12
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "archwayfishtown": {
       "slug": "archwayfishtown",
@@ -277,13 +275,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 301,
+      "ms": 185,
       "visual": {
         "diff_pct": 66.62
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "ascendcapitalmanagement": {
       "slug": "ascendcapitalmanagement",
@@ -292,13 +290,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 347,
+      "ms": 201,
       "visual": {
         "diff_pct": 79.21
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "atlanticinn": {
       "slug": "atlanticinn",
@@ -307,12 +305,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 741,
+      "ms": 520,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.710Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "atlanticoceanfronthotel": {
       "slug": "atlanticoceanfronthotel",
@@ -321,13 +319,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 328,
+      "ms": 253,
       "visual": {
         "diff_pct": 74.58
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "atlantismotel": {
       "slug": "atlantismotel",
@@ -336,13 +334,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 246,
+      "ms": 182,
       "visual": {
         "diff_pct": 0.47
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "atwellsgroup": {
       "slug": "atwellsgroup",
@@ -351,13 +349,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 279,
+      "ms": 306,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.836Z"
     },
     "b3ogt": {
       "slug": "b3ogt",
@@ -366,13 +364,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 296,
+      "ms": 258,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "beachcombermontauk": {
       "slug": "beachcombermontauk",
@@ -387,7 +385,7 @@
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "beachmereinn": {
       "slug": "beachmereinn",
@@ -396,12 +394,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 239,
+      "ms": 340,
       "visual": {
         "diff_pct": 6.86
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "bermudagetaway": {
       "slug": "bermudagetaway",
@@ -410,13 +408,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 317,
+      "ms": 323,
       "visual": {
         "diff_pct": 22.84
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "bhycr": {
       "slug": "bhycr",
@@ -425,12 +423,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 5044,
+      "ms": 277,
       "visual": {
         "diff_pct": 1.39
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "bigpinekeymotel": {
       "slug": "bigpinekeymotel",
@@ -439,12 +437,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 6435,
+      "ms": 2043,
       "visual": {
         "diff_pct": 3.84
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "blockislandalarm": {
       "slug": "blockislandalarm",
@@ -453,13 +451,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 263,
+      "ms": 304,
       "visual": {
         "diff_pct": 69.88
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "blockislandbbq": {
       "slug": "blockislandbbq",
@@ -470,12 +468,12 @@
         "Page body nearly empty"
       ],
       "code": 200,
-      "ms": 313,
+      "ms": 339,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "blockislandbooking": {
       "slug": "blockislandbooking",
@@ -484,13 +482,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 354,
+      "ms": 324,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "blockislandfigurehead": {
       "slug": "blockislandfigurehead",
@@ -499,13 +497,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 229,
+      "ms": 386,
       "visual": {
         "diff_pct": 76.44
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "blockislandinns": {
       "slug": "blockislandinns",
@@ -514,13 +512,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 269,
+      "ms": 317,
       "visual": {
         "diff_pct": 0.37
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "blockislandstays": {
       "slug": "blockislandstays",
@@ -529,13 +527,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 186,
+      "ms": 380,
       "visual": {
         "diff_pct": 7.82
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "bofilltech": {
       "slug": "bofilltech",
@@ -544,13 +542,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 314,
+      "ms": 333,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "bohringerinc": {
       "slug": "bohringerinc",
@@ -559,13 +557,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 136,
+      "ms": 329,
       "visual": {
         "diff_pct": 26.11
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "bookifypro": {
       "slug": "bookifypro",
@@ -574,13 +572,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 208,
+      "ms": 384,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "borealislandscapelighting": {
       "slug": "borealislandscapelighting",
@@ -589,12 +587,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 531,
+      "ms": 802,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "borgosanvincenzo": {
       "slug": "borgosanvincenzo",
@@ -603,13 +601,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 118,
+      "ms": 312,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.837Z"
     },
     "braktub": {
       "slug": "braktub",
@@ -618,13 +616,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 144,
+      "ms": 272,
       "visual": {
         "diff_pct": 63.06
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "breslinrealty": {
       "slug": "breslinrealty",
@@ -633,12 +631,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 756,
+      "ms": 270,
       "visual": {
         "diff_pct": 5.29
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "bretgilliam": {
       "slug": "bretgilliam",
@@ -647,13 +645,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 179,
+      "ms": 318,
       "visual": {
         "diff_pct": 58.1
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "brineybreezes": {
       "slug": "brineybreezes",
@@ -662,13 +660,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 230,
+      "ms": 288,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "brittnewmandesign": {
       "slug": "brittnewmandesign",
@@ -677,13 +675,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 268,
+      "ms": 330,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "broker-windsongresidences": {
       "slug": "broker-windsongresidences",
@@ -692,13 +690,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 201,
+      "ms": 316,
       "visual": {
         "diff_pct": 0.04
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.711Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "byerscollective": {
       "slug": "byerscollective",
@@ -707,18 +705,568 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 175,
+      "ms": 288,
       "visual": {
         "diff_pct": 96.03
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
+      "checked_at": "2026-09-10T00:44:40.838Z"
     },
     "bytheseaguests": {
       "slug": "bytheseaguests",
       "name": "By The Sea Guests",
       "url": "https://bytheseaguests.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 304,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "castlesinparadise": {
+      "slug": "castlesinparadise",
+      "name": "Castlesinparadise",
+      "url": "https://castlesinparadise.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 1254,
+      "visual": {
+        "diff_pct": 59.98
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "ccmweddings": {
+      "slug": "ccmweddings",
+      "name": "Cortlandt Colonial",
+      "url": "https://ccmweddings.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 290,
+      "visual": {
+        "diff_pct": 71.87
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "cedarhouseonsound": {
+      "slug": "cedarhouseonsound",
+      "name": "Cedar House on Sound",
+      "url": "https://cedarhouseonsound.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 340,
+      "visual": {
+        "diff_pct": 8.05
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "centcal": {
+      "slug": "centcal",
+      "name": "Central Califormia",
+      "url": "https://centcal.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 332,
+      "visual": {
+        "diff_pct": 0.09
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "chasecreek": {
+      "slug": "chasecreek",
+      "name": "Chase Creek",
+      "url": "https://chasecreek.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 243,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "chriscraftnw": {
+      "slug": "chriscraftnw",
+      "name": "Chris Craft Northwest",
+      "url": "https://chriscraftnw.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 286,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "citizens4humanity": {
+      "slug": "citizens4humanity",
+      "name": "Citizens4Humanity",
+      "url": "https://citizens4humanity.org",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 403,
+      "visual": {
+        "diff_pct": 6.75
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "clearwaterbeachclub": {
+      "slug": "clearwaterbeachclub",
+      "name": "Clearwater Beach Club",
+      "url": "https://clearwaterbeachclub.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 265,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "collinsirishpub": {
+      "slug": "collinsirishpub",
+      "name": "Ascend Capital Management",
+      "url": "https://collinsirishpub.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 197,
+      "visual": {
+        "diff_pct": 30.02
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "congocoastal": {
+      "slug": "congocoastal",
+      "name": "Congocoastal",
+      "url": "https://congocoastal.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 859,
+      "visual": {
+        "diff_pct": 46.44
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "courtneysplacekeywest": {
+      "slug": "courtneysplacekeywest",
+      "name": "Courtneysplacekeywest",
+      "url": "https://courtneysplacekeywest.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 3969,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.838Z"
+    },
+    "coveatyarmouth": {
+      "slug": "coveatyarmouth",
+      "name": "Cove at Yarmouth",
+      "url": "https://coveatyarmouth.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 276,
+      "visual": {
+        "diff_pct": 1.92
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "cozycabins": {
+      "slug": "cozycabins",
+      "name": "Cozycabins",
+      "url": "https://cozycabins.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 719,
+      "visual": {
+        "diff_pct": 49.62
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "crownpointcondos": {
+      "slug": "crownpointcondos",
+      "name": "Crown Point Condos",
+      "url": "https://crownpointcondos.net",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 185,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "customwindowsllc": {
+      "slug": "customwindowsllc",
+      "name": "Customwindowsllc",
+      "url": "https://customwindowsllc.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 215,
+      "visual": {
+        "diff_pct": 0,
+        "baseline_reset": true
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "customwinecellars": {
+      "slug": "customwinecellars",
+      "name": "Custom Wine Cellars",
+      "url": "https://customwinecellars.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 229,
+      "visual": {
+        "diff_pct": 3.98
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "davebofill": {
+      "slug": "davebofill",
+      "name": "Dave Bofill Marine",
+      "url": "https://davebofill.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 199,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "daysail-bvi": {
+      "slug": "daysail-bvi",
+      "name": "Adventure Charters BVI",
+      "url": "https://daysail-bvi.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 249,
+      "visual": {
+        "diff_pct": 0,
+        "baseline_reset": true
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "dibiaseassociates": {
+      "slug": "dibiaseassociates",
+      "name": "Dibiase Associates",
+      "url": "https://dibiaseassociates.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 287,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "dirtybirdiesbargrill": {
+      "slug": "dirtybirdiesbargrill",
+      "name": "Ascend Capital Management",
+      "url": "https://dirtybirdiesbargrill.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 197,
+      "visual": {
+        "diff_pct": 0.11
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "douglasri": {
+      "slug": "douglasri",
+      "name": "Douglas Construction",
+      "url": "https://douglasri.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 254,
+      "visual": {
+        "diff_pct": 8.55
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "dunecresthotel": {
+      "slug": "dunecresthotel",
+      "name": "Dune Crest Hotel",
+      "url": "https://dunecresthotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 267,
+      "visual": {
+        "diff_pct": 8.37
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "eastlongisland": {
+      "slug": "eastlongisland",
+      "name": "East Long Island",
+      "url": "https://eastlongisland.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 219,
+      "visual": {
+        "diff_pct": 46.95
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "edgewatercapecodma": {
+      "slug": "edgewatercapecodma",
+      "name": "Edgewater Cape Codma",
+      "url": "https://edgewatercapecodma.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 251,
+      "visual": {
+        "diff_pct": 0,
+        "baseline_reset": true
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "elmwoodmotorcourt": {
+      "slug": "elmwoodmotorcourt",
+      "name": "Elmwoodmotorcourt",
+      "url": "https://elmwoodmotorcourt.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 200,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "executivemotel-maine": {
+      "slug": "executivemotel-maine",
+      "name": "Executivemotel Maine",
+      "url": "https://executivemotel-maine.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 473,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "familyskitrips": {
+      "slug": "familyskitrips",
+      "name": "Familyskitrips",
+      "url": "https://familyskitrips.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 192,
+      "visual": {
+        "diff_pct": 0.01
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "ferraromanufacturing": {
+      "slug": "ferraromanufacturing",
+      "name": "Ferraro Manufacturing",
+      "url": "https://ferraromanufacturing.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 185,
+      "visual": {
+        "diff_pct": 70.82
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "fidalgocountryinn": {
+      "slug": "fidalgocountryinn",
+      "name": "Fidalgo Country Inn",
+      "url": "https://fidalgocountryinn.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 200,
+      "visual": {
+        "diff_pct": 22.99
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "flabayclub": {
+      "slug": "flabayclub",
+      "name": "Florida Bay Club",
+      "url": "https://flabayclub.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 228,
+      "visual": {
+        "diff_pct": 69.3
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.839Z"
+    },
+    "flightreliefdrink": {
+      "slug": "flightreliefdrink",
+      "name": "Flightreliefdrink",
+      "url": "https://flightreliefdrink.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 225,
+      "visual": {
+        "diff_pct": 86.86
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "frangipaniresort": {
+      "slug": "frangipaniresort",
+      "name": "Frangipani Beach Resort",
+      "url": "https://frangipaniresort.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 240,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "frogcitymill": {
+      "slug": "frogcitymill",
+      "name": "Anchor Management",
+      "url": "https://frogcitymill.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 283,
+      "visual": {
+        "diff_pct": 67.6
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "gagnongeothermal": {
+      "slug": "gagnongeothermal",
+      "name": "Gagnongeothermal",
+      "url": "https://gagnongeothermal.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 243,
+      "visual": {
+        "diff_pct": 7.78
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "galehotels": {
+      "slug": "galehotels",
+      "name": "Galehotels",
+      "url": "https://galehotels.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 284,
+      "visual": {
+        "diff_pct": 0,
+        "baseline_reset": true
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "galemiami": {
+      "slug": "galemiami",
+      "name": "GaleMiami",
+      "url": "https://galemiami.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 218,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "gansevoorthospitality": {
+      "slug": "gansevoorthospitality",
+      "name": "Gansevoorthospitality",
+      "url": "https://gansevoorthospitality.com",
       "status": "live",
       "issues": [],
       "code": 403,
@@ -728,2080 +1276,12 @@
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "castlesinparadise": {
-      "slug": "castlesinparadise",
-      "name": "Castlesinparadise",
-      "url": "https://castlesinparadise.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 213,
-      "visual": {
-        "diff_pct": 59.98
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "ccmweddings": {
-      "slug": "ccmweddings",
-      "name": "Cortlandt Colonial",
-      "url": "https://ccmweddings.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 144,
-      "visual": {
-        "diff_pct": 71.87
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "cedarhouseonsound": {
-      "slug": "cedarhouseonsound",
-      "name": "Cedar House on Sound",
-      "url": "https://cedarhouseonsound.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 166,
-      "visual": {
-        "diff_pct": 8.05
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "centcal": {
-      "slug": "centcal",
-      "name": "Central Califormia",
-      "url": "https://centcal.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 193,
-      "visual": {
-        "diff_pct": 0.09
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "chasecreek": {
-      "slug": "chasecreek",
-      "name": "Chase Creek",
-      "url": "https://chasecreek.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 157,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "chriscraftnw": {
-      "slug": "chriscraftnw",
-      "name": "Chris Craft Northwest",
-      "url": "https://chriscraftnw.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 227,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "citizens4humanity": {
-      "slug": "citizens4humanity",
-      "name": "Citizens4Humanity",
-      "url": "https://citizens4humanity.org",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 416,
-      "visual": {
-        "diff_pct": 6.75
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "clearwaterbeachclub": {
-      "slug": "clearwaterbeachclub",
-      "name": "Clearwater Beach Club",
-      "url": "https://clearwaterbeachclub.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 287,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "collinsirishpub": {
-      "slug": "collinsirishpub",
-      "name": "Ascend Capital Management",
-      "url": "https://collinsirishpub.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 283,
-      "visual": {
-        "diff_pct": 30.02
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "congocoastal": {
-      "slug": "congocoastal",
-      "name": "Congocoastal",
-      "url": "https://congocoastal.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 813,
-      "visual": {
-        "diff_pct": 46.44
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "courtneysplacekeywest": {
-      "slug": "courtneysplacekeywest",
-      "name": "Courtneysplacekeywest",
-      "url": "https://courtneysplacekeywest.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 279,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "coveatyarmouth": {
-      "slug": "coveatyarmouth",
-      "name": "Cove at Yarmouth",
-      "url": "https://coveatyarmouth.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 272,
-      "visual": {
-        "diff_pct": 1.92
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "cozycabins": {
-      "slug": "cozycabins",
-      "name": "Cozycabins",
-      "url": "https://cozycabins.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 761,
-      "visual": {
-        "diff_pct": 49.62
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "crownpointcondos": {
-      "slug": "crownpointcondos",
-      "name": "Crown Point Condos",
-      "url": "https://crownpointcondos.net",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 228,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "customwindowsllc": {
-      "slug": "customwindowsllc",
-      "name": "Customwindowsllc",
-      "url": "https://customwindowsllc.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 229,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "customwinecellars": {
-      "slug": "customwinecellars",
-      "name": "Custom Wine Cellars",
-      "url": "https://customwinecellars.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 254,
-      "visual": {
-        "diff_pct": 3.98
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "davebofill": {
-      "slug": "davebofill",
-      "name": "Dave Bofill Marine",
-      "url": "https://davebofill.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 2449,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "daysail-bvi": {
-      "slug": "daysail-bvi",
-      "name": "Adventure Charters BVI",
-      "url": "https://daysail-bvi.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 212,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "dibiaseassociates": {
-      "slug": "dibiaseassociates",
-      "name": "Dibiase Associates",
-      "url": "https://dibiaseassociates.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 222,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "dirtybirdiesbargrill": {
-      "slug": "dirtybirdiesbargrill",
-      "name": "Ascend Capital Management",
-      "url": "https://dirtybirdiesbargrill.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 141,
-      "visual": {
-        "diff_pct": 0.11
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "douglasri": {
-      "slug": "douglasri",
-      "name": "Douglas Construction",
-      "url": "https://douglasri.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 135,
-      "visual": {
-        "diff_pct": 8.55
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "dunecresthotel": {
-      "slug": "dunecresthotel",
-      "name": "Dune Crest Hotel",
-      "url": "https://dunecresthotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 124,
-      "visual": {
-        "diff_pct": 8.37
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "eastlongisland": {
-      "slug": "eastlongisland",
-      "name": "East Long Island",
-      "url": "https://eastlongisland.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 230,
-      "visual": {
-        "diff_pct": 46.95
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "edgewatercapecodma": {
-      "slug": "edgewatercapecodma",
-      "name": "Edgewater Cape Codma",
-      "url": "https://edgewatercapecodma.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 233,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.712Z"
-    },
-    "elmwoodmotorcourt": {
-      "slug": "elmwoodmotorcourt",
-      "name": "Elmwoodmotorcourt",
-      "url": "https://elmwoodmotorcourt.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 209,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "executivemotel-maine": {
-      "slug": "executivemotel-maine",
-      "name": "Executivemotel Maine",
-      "url": "https://executivemotel-maine.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 614,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "familyskitrips": {
-      "slug": "familyskitrips",
-      "name": "Familyskitrips",
-      "url": "https://familyskitrips.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 109,
-      "visual": {
-        "diff_pct": 0.01
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "ferraromanufacturing": {
-      "slug": "ferraromanufacturing",
-      "name": "Ferraro Manufacturing",
-      "url": "https://ferraromanufacturing.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 175,
-      "visual": {
-        "diff_pct": 70.82
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "fidalgocountryinn": {
-      "slug": "fidalgocountryinn",
-      "name": "Fidalgo Country Inn",
-      "url": "https://fidalgocountryinn.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 185,
-      "visual": {
-        "diff_pct": 22.99
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "flabayclub": {
-      "slug": "flabayclub",
-      "name": "Florida Bay Club",
-      "url": "https://flabayclub.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 211,
-      "visual": {
-        "diff_pct": 69.3
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "flightreliefdrink": {
-      "slug": "flightreliefdrink",
-      "name": "Flightreliefdrink",
-      "url": "https://flightreliefdrink.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 262,
-      "visual": {
-        "diff_pct": 86.86
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "frangipaniresort": {
-      "slug": "frangipaniresort",
-      "name": "Frangipani Beach Resort",
-      "url": "https://frangipaniresort.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 213,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "frogcitymill": {
-      "slug": "frogcitymill",
-      "name": "Anchor Management",
-      "url": "https://frogcitymill.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 151,
-      "visual": {
-        "diff_pct": 67.6
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "gagnongeothermal": {
-      "slug": "gagnongeothermal",
-      "name": "Gagnongeothermal",
-      "url": "https://gagnongeothermal.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 99,
-      "visual": {
-        "diff_pct": 7.78
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "galehotels": {
-      "slug": "galehotels",
-      "name": "Galehotels",
-      "url": "https://galehotels.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 73,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "galemiami": {
-      "slug": "galemiami",
-      "name": "GaleMiami",
-      "url": "https://galemiami.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 137,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "gansevoorthospitality": {
-      "slug": "gansevoorthospitality",
-      "name": "Gansevoorthospitality",
-      "url": "https://gansevoorthospitality.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 69,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
+      "checked_at": "2026-09-10T00:44:40.840Z"
     },
     "gauntreeservice": {
       "slug": "gauntreeservice",
       "name": "Gauntreeservice",
       "url": "https://gauntreeservice.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 187,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "getoffourisland": {
-      "slug": "getoffourisland",
-      "name": "Getoffourisland",
-      "url": "https://getoffourisland.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 195,
-      "visual": {
-        "diff_pct": 0.24
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "gibraltarmgt": {
-      "slug": "gibraltarmgt",
-      "name": "The Breton Group",
-      "url": "https://gibraltarmgt.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 570,
-      "visual": {
-        "diff_pct": 0.05
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "granaway": {
-      "slug": "granaway",
-      "name": "Granaway",
-      "url": "https://granaway.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 179,
-      "visual": {
-        "diff_pct": 0.89
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "greenbankbermuda": {
-      "slug": "greenbankbermuda",
-      "name": "Greenbank Bermuda",
-      "url": "https://greenbankbermuda.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 193,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "greenwichhearingaids": {
-      "slug": "greenwichhearingaids",
-      "name": "Greenwich Hearing Aids",
-      "url": "https://greenwichhearingaids.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 190,
-      "visual": {
-        "diff_pct": 36.24
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "hamiltonvillageinn": {
-      "slug": "hamiltonvillageinn",
-      "name": "Hamilton",
-      "url": "https://hamiltonvillageinn.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 184,
-      "visual": {
-        "diff_pct": 0.93
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "hamletinn": {
-      "slug": "hamletinn",
-      "name": "Hamlet Inn",
-      "url": "https://hamletinn.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 191,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "hayharborclub": {
-      "slug": "hayharborclub",
-      "name": "Hay Harbor Club",
-      "url": "https://hayharborclub.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 91,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "hillcrestgolf": {
-      "slug": "hillcrestgolf",
-      "name": "Hillcrestgolf",
-      "url": "https://hillcrestgolf.net",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 784,
-      "visual": {
-        "diff_pct": 0.13
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "hudsonvalleycharter": {
-      "slug": "hudsonvalleycharter",
-      "name": "Hudson Valley Charter Service",
-      "url": "https://hudsonvalleycharter.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 274,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "ims21": {
-      "slug": "ims21",
-      "name": "Ims21",
-      "url": "https://ims21.net",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 306,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "innathighway1": {
-      "slug": "innathighway1",
-      "name": "Inn at Highway 1",
-      "url": "https://innathighway1.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 211,
-      "visual": {
-        "diff_pct": 10.34
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "insatiableeats": {
-      "slug": "insatiableeats",
-      "name": "Insatiable Eats",
-      "url": "https://insatiableeats.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 159,
-      "visual": {
-        "diff_pct": 6.57
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.713Z"
-    },
-    "jamesportbaysuites": {
-      "slug": "jamesportbaysuites",
-      "name": "Jamesportbaysuites",
-      "url": "https://jamesportbaysuites.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 151,
-      "visual": {
-        "diff_pct": 8.13
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "jcmlaw": {
-      "slug": "jcmlaw",
-      "name": "Jcmlaw",
-      "url": "https://jcmlaw.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 4285,
-      "visual": {
-        "diff_pct": 4.75
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "jladlercarpentry": {
-      "slug": "jladlercarpentry",
-      "name": "Jladlercarpentry",
-      "url": "https://jladlercarpentry.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 267,
-      "visual": {
-        "diff_pct": 0.24
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "jlhtherapy": {
-      "slug": "jlhtherapy",
-      "name": "JLH Therapy",
-      "url": "https://jlhtherapy.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 371,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "jostvandyke": {
-      "slug": "jostvandyke",
-      "name": "Jostvandyke",
-      "url": "https://jostvandyke.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 47.13% vs baseline"
-      ],
-      "code": 200,
-      "ms": 613,
-      "visual": {
-        "diff_pct": 47.13
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "kennebunkbeachmaine": {
-      "slug": "kennebunkbeachmaine",
-      "name": "Kennebunk Beach Maine",
-      "url": "https://kennebunkbeachmaine.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 118,
-      "visual": {
-        "diff_pct": 7.37
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "kesslerusa": {
-      "slug": "kesslerusa",
-      "name": "Kessler USA",
-      "url": "https://kesslerusa.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 181,
-      "visual": {
-        "diff_pct": 0.99
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "kingshousemotorhotel": {
-      "slug": "kingshousemotorhotel",
-      "name": "Ascend Capital Management",
-      "url": "https://kingshousemotorhotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 128,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "kmss-us": {
-      "slug": "kmss-us",
-      "name": "KM Security Solutions",
-      "url": "https://kmss-us.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 47.77% vs baseline"
-      ],
-      "code": 403,
-      "ms": 106,
-      "visual": {
-        "diff_pct": 47.77
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "ktelderlaw": {
-      "slug": "ktelderlaw",
-      "name": "Kilbourne & Tully - Elder Law Offices",
-      "url": "https://ktelderlaw.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 53.62% vs baseline"
-      ],
-      "code": 200,
-      "ms": 228,
-      "visual": {
-        "diff_pct": 53.62
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "liregentsprep": {
-      "slug": "liregentsprep",
-      "name": "Long Island Regents Prep",
-      "url": "https://liregentsprep.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 194,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "littlerichgirl": {
-      "slug": "littlerichgirl",
-      "name": "Littlerichgirl",
-      "url": "https://littlerichgirl.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 194,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "littlesurinn": {
-      "slug": "littlesurinn",
-      "name": "Little Sur Inn",
-      "url": "https://littlesurinn.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 73,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "lodgeatkennebunk": {
-      "slug": "lodgeatkennebunk",
-      "name": "Lodge at Kennebunk",
-      "url": "https://lodgeatkennebunk.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 159,
-      "visual": {
-        "diff_pct": 0.63
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mannafishfarms": {
-      "slug": "mannafishfarms",
-      "name": "Manna Fish Farms",
-      "url": "https://mannafishfarms.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 80.71% vs baseline"
-      ],
-      "code": 403,
-      "ms": 132,
-      "visual": {
-        "diff_pct": 80.71
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mannahamptonsrestaurant": {
-      "slug": "mannahamptonsrestaurant",
-      "name": "Mannahamptonsrestaurant",
-      "url": "https://mannahamptonsrestaurant.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 69.93% vs baseline"
-      ],
-      "code": 403,
-      "ms": 167,
-      "visual": {
-        "diff_pct": 69.93
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mannaoceanfoundation": {
-      "slug": "mannaoceanfoundation",
-      "name": "Manna Ocean Foundation",
-      "url": "https://mannaoceanfoundation.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 86.8% vs baseline"
-      ],
-      "code": 403,
-      "ms": 209,
-      "visual": {
-        "diff_pct": 86.8
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mannarestaurant": {
-      "slug": "mannarestaurant",
-      "name": "Manna Restaurant",
-      "url": "https://mannarestaurant.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 214,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mannaseafoodblockchain": {
-      "slug": "mannaseafoodblockchain",
-      "name": "Manna Seafood Blockchain",
-      "url": "https://mannaseafoodblockchain.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 198,
-      "visual": {
-        "diff_pct": 0.03
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "marinerresort": {
-      "slug": "marinerresort",
-      "name": "Marinerresort",
-      "url": "https://marinerresort.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 147,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mbpoa": {
-      "slug": "mbpoa",
-      "name": "Montauk Beach Property Owners Association",
-      "url": "https://mbpoa.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 43.32% vs baseline"
-      ],
-      "code": 403,
-      "ms": 201,
-      "visual": {
-        "diff_pct": 43.32
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "meadowviewhousebi": {
-      "slug": "meadowviewhousebi",
-      "name": "Meadowviewhousebi",
-      "url": "https://meadowviewhousebi.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 2769,
-      "visual": {
-        "diff_pct": 0.21
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "meetinghousemarina": {
-      "slug": "meetinghousemarina",
-      "name": "Meetinghousemarina",
-      "url": "https://meetinghousemarina.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 49.61% vs baseline"
-      ],
-      "code": 403,
-      "ms": 244,
-      "visual": {
-        "diff_pct": 49.61
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "metropolisdiner": {
-      "slug": "metropolisdiner",
-      "name": "Metropolisdiner",
-      "url": "https://metropolisdiner.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 245,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mistyharborresort": {
-      "slug": "mistyharborresort",
-      "name": "Mistyharborresort",
-      "url": "https://mistyharborresort.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 290,
-      "visual": {
-        "diff_pct": 0.62
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "mondocreations": {
-      "slug": "mondocreations",
-      "name": "Mondo Creations",
-      "url": "https://mondocreations.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 314,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.714Z"
-    },
-    "montaukhouserentals": {
-      "slug": "montaukhouserentals",
-      "name": "Montaukhouserentals",
-      "url": "https://montaukhouserentals.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 273,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "montauklakeclub": {
-      "slug": "montauklakeclub",
-      "name": "Montauk Lake Club",
-      "url": "https://montauklakeclub.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 81.91% vs baseline"
-      ],
-      "code": 403,
-      "ms": 297,
-      "visual": {
-        "diff_pct": 81.91
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "montaukmanor": {
-      "slug": "montaukmanor",
-      "name": "Montauk Manor",
-      "url": "https://montaukmanor.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 331,
-      "visual": {
-        "diff_pct": 0.02
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "montauksoundview": {
-      "slug": "montauksoundview",
-      "name": "Montauk Soundview",
-      "url": "https://montauksoundview.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 317,
-      "visual": {
-        "diff_pct": 35.67
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "moonstonelanding": {
-      "slug": "moonstonelanding",
-      "name": "Moonstone Landing",
-      "url": "https://moonstonelanding.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 303,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "mountnevishotel": {
-      "slug": "mountnevishotel",
-      "name": "Mountnevishotel",
-      "url": "https://mountnevishotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 279,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "myoysterbi": {
-      "slug": "myoysterbi",
-      "name": "My Oyster",
-      "url": "https://myoysterbi.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 79.71% vs baseline"
-      ],
-      "code": 403,
-      "ms": 266,
-      "visual": {
-        "diff_pct": 79.71
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "natalestransport": {
-      "slug": "natalestransport",
-      "name": "Natales Transport",
-      "url": "https://natalestransport.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 348,
-      "visual": {
-        "diff_pct": 0.03
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "newrochellept": {
-      "slug": "newrochellept",
-      "name": "New Rochelle Physical Therapy",
-      "url": "https://newrochellept.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 465,
-      "visual": {
-        "diff_pct": 0.21
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "newyorkcateringco": {
-      "slug": "newyorkcateringco",
-      "name": "Newyorkcateringco",
-      "url": "https://newyorkcateringco.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 366,
-      "visual": {
-        "diff_pct": 0.99
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "nfct": {
-      "slug": "nfct",
-      "name": "Nfct",
-      "url": "https://nfct.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 68.36% vs baseline"
-      ],
-      "code": 403,
-      "ms": 334,
-      "visual": {
-        "diff_pct": 68.36
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "northforkcarwash": {
-      "slug": "northforkcarwash",
-      "name": "Hildeth Advisors",
-      "url": "https://northforkcarwash.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 27.8% vs baseline"
-      ],
-      "code": 403,
-      "ms": 348,
-      "visual": {
-        "diff_pct": 27.8
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "northharbormontauk": {
-      "slug": "northharbormontauk",
-      "name": "North Harbor Montauk",
-      "url": "https://northharbormontauk.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 319,
-      "visual": {
-        "diff_pct": 0.01
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "oceancliff1and2": {
-      "slug": "oceancliff1and2",
-      "name": "Oceancliff 1 & 2",
-      "url": "https://oceancliff1and2.com",
-      "status": "warning",
-      "issues": [
-        "Visual change 74.35% vs baseline"
-      ],
-      "code": 403,
-      "ms": 231,
-      "visual": {
-        "diff_pct": 74.35
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "oceanvistaresort": {
-      "slug": "oceanvistaresort",
-      "name": "Oceanvistaresort",
-      "url": "https://oceanvistaresort.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 4418,
-      "visual": {
-        "diff_pct": 0.32
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "oceanwoodsresort": {
-      "slug": "oceanwoodsresort",
-      "name": "Ocean Woods Resort",
-      "url": "https://oceanwoodsresort.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 717,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "ogunquithotels": {
-      "slug": "ogunquithotels",
-      "name": "Ogunquithotels",
-      "url": "https://ogunquithotels.net",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 308,
-      "visual": {
-        "diff_pct": 0.95
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "oldorchardbeachlodging": {
-      "slug": "oldorchardbeachlodging",
-      "name": "Old Orchard Beach",
-      "url": "https://oldorchardbeachlodging.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 283,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "olympia-vt": {
-      "slug": "olympia-vt",
-      "name": "Oympia Lodge",
-      "url": "https://olympia-vt.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 319,
-      "visual": {
-        "diff_pct": 74.14
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "onmontauk": {
-      "slug": "onmontauk",
-      "name": "Onmontauk",
-      "url": "https://onmontauk.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 324,
-      "visual": {
-        "diff_pct": 46.61
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "onthebeachmotel": {
-      "slug": "onthebeachmotel",
-      "name": "Onthebeachmotel",
-      "url": "https://onthebeachmotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 120,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "oquossoccountrysuites": {
-      "slug": "oquossoccountrysuites",
-      "name": "Oquossoc Country Suites",
-      "url": "https://oquossoccountrysuites.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 104,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "oshuckscatering": {
-      "slug": "oshuckscatering",
-      "name": "O’Shucks Catering",
-      "url": "https://oshuckscatering.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 118,
-      "visual": {
-        "diff_pct": 21.03
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "outeastmgmt": {
-      "slug": "outeastmgmt",
-      "name": "Out East Management",
-      "url": "https://outeastmgmt.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 292,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "paintedrockdesigns": {
-      "slug": "paintedrockdesigns",
-      "name": "Paintedrockdesigns",
-      "url": "https://paintedrockdesigns.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 611,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "paintedrockfloraldesigns": {
-      "slug": "paintedrockfloraldesigns",
-      "name": "Painted Rock Designs",
-      "url": "https://paintedrockfloraldesigns.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 406,
-      "visual": {
-        "diff_pct": 37.92
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.715Z"
-    },
-    "palmamiamibeach": {
-      "slug": "palmamiamibeach",
-      "name": "Palmamiamibeach",
-      "url": "https://palmamiamibeach.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 365,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "papkeproperties": {
-      "slug": "papkeproperties",
-      "name": "Papke Properties",
-      "url": "https://papkeproperties.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 252,
-      "visual": {
-        "diff_pct": 2.79
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "paradisevacationsuites": {
-      "slug": "paradisevacationsuites",
-      "name": "Paradisevacationsuites",
-      "url": "https://paradisevacationsuites.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 259,
-      "visual": {
-        "diff_pct": 15.51
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "paragonct": {
-      "slug": "paragonct",
-      "name": "Paragonct",
-      "url": "https://paragonct.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 3012,
-      "visual": {
-        "diff_pct": 0.09
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "paynesharborviewinn": {
-      "slug": "paynesharborviewinn",
-      "name": "Payne's Harbor View Inn",
-      "url": "https://paynesharborviewinn.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 224,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "pcresortandclub": {
-      "slug": "pcresortandclub",
-      "name": "Panama City Resort and Club",
-      "url": "https://pcresortandclub.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 154,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "peaksandocean": {
-      "slug": "peaksandocean",
-      "name": "Peaksandocean",
-      "url": "https://peaksandocean.ca",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 154,
-      "visual": {
-        "diff_pct": 74.82
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "pelhambayhomecenter": {
-      "slug": "pelhambayhomecenter",
-      "name": "Pelham Bay Home Center",
-      "url": "https://pelhambayhomecenter.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 177,
-      "visual": {
-        "diff_pct": 44.72
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "pinkb": {
-      "slug": "pinkb",
-      "name": "Pinkb",
-      "url": "https://pinkb.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 122,
-      "visual": {
-        "diff_pct": 68.62
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "pinkpalmhotel": {
-      "slug": "pinkpalmhotel",
-      "name": "Pinkpalmhotel",
-      "url": "https://pinkpalmhotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 81,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "pjspubnarragansett": {
-      "slug": "pjspubnarragansett",
-      "name": "Pjspubnarragansett",
-      "url": "https://pjspubnarragansett.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 333,
-      "visual": {
-        "diff_pct": 47.93
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "pompetteflagstaff": {
-      "slug": "pompetteflagstaff",
-      "name": "Pompetteflagstaff",
-      "url": "https://pompetteflagstaff.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 140,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "portsofcallresort": {
-      "slug": "portsofcallresort",
-      "name": "Ports of Call Resort",
-      "url": "https://portsofcallresort.com",
-      "status": "warning",
-      "issues": [
-        "First failure — confirming next run",
-        "Timed out after 20s"
-      ],
-      "code": 0,
-      "ms": 20001,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "down_streak": 1,
-      "uptime_pct": 95.2,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "portsofcallvillas": {
-      "slug": "portsofcallvillas",
-      "name": "Ports of Call Villas",
-      "url": "https://portsofcallvillas.com",
-      "status": "warning",
-      "issues": [
-        "First failure — confirming next run",
-        "Timed out after 20s"
-      ],
-      "code": 0,
-      "ms": 20000,
-      "visual": {
-        "diff_pct": 0.13
-      },
-      "down_streak": 1,
-      "uptime_pct": 95.2,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "premier-flight": {
-      "slug": "premier-flight",
-      "name": "Premier Flight",
-      "url": "https://premier-flight.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 161,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.716Z"
-    },
-    "providenceoysterbar": {
-      "slug": "providenceoysterbar",
-      "name": "Providenceoysterbar",
-      "url": "https://providenceoysterbar.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 148,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "quickstepmarine": {
-      "slug": "quickstepmarine",
-      "name": "Quick Step Marine",
-      "url": "https://quickstepmarine.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 142,
-      "visual": {
-        "diff_pct": 0.09
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "redbarnhomemade": {
-      "slug": "redbarnhomemade",
-      "name": "Redbarnhomemade",
-      "url": "https://redbarnhomemade.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 151,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "redsquirrellodge": {
-      "slug": "redsquirrellodge",
-      "name": "Redsquirrellodge",
-      "url": "https://redsquirrellodge.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 164,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "rendezvousbayhotel": {
-      "slug": "rendezvousbayhotel",
-      "name": "Rendezvous Bay Hotel",
-      "url": "https://www.rendezvousbayhotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 375,
-      "visual": {
-        "diff_pct": 85.82
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "rhumblinemaine": {
-      "slug": "rhumblinemaine",
-      "name": "Rhumblinemaine",
-      "url": "https://rhumblinemaine.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 164,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "riomexicancafe": {
-      "slug": "riomexicancafe",
-      "name": "Riomexicancafe",
-      "url": "https://riomexicancafe.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 76,
-      "visual": {
-        "diff_pct": 0.53
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "robertnewmanonline": {
-      "slug": "robertnewmanonline",
-      "name": "Robert Newman",
-      "url": "https://robertnewmanonline.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 75,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "roccogiftcard": {
-      "slug": "roccogiftcard",
-      "name": "Roccos Gift Card",
-      "url": "https://roccogiftcard.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 148,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "rosefarminn": {
-      "slug": "rosefarminn",
-      "name": "The Rose Farm Inn",
-      "url": "https://rosefarminn.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 72,
-      "visual": {
-        "diff_pct": 0,
-        "baseline_reset": true
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "royalatlantic": {
-      "slug": "royalatlantic",
-      "name": "Royal Atlantic",
-      "url": "https://royalatlantic.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 194,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "sandsoob": {
-      "slug": "sandsoob",
-      "name": "Sandsoob",
-      "url": "https://sandsoob.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 154,
-      "visual": {
-        "diff_pct": 0
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "sbmotel": {
-      "slug": "sbmotel",
-      "name": "Sbmotel",
-      "url": "https://sbmotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 82,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "seachambers": {
-      "slug": "seachambers",
-      "name": "Seachambers",
-      "url": "https://seachambers.com",
-      "status": "warning",
-      "issues": [
-        "Slow response (8.4s)"
-      ],
-      "code": 200,
-      "ms": 8432,
-      "visual": {
-        "diff_pct": 69.76
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "searosesuites": {
-      "slug": "searosesuites",
-      "name": "Searosesuites",
-      "url": "https://searosesuites.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 129,
-      "visual": {
-        "diff_pct": 6.14
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "seashellcapecod": {
-      "slug": "seashellcapecod",
-      "name": "Sea Shell Motel - Cape Cod",
-      "url": "https://seashellcapecod.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 252,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "seaviewmotel": {
-      "slug": "seaviewmotel",
-      "name": "Sea View Motel",
-      "url": "https://seaviewmotel.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 141,
-      "visual": {
-        "diff_pct": 50.16
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "sebastiansbvi": {
-      "slug": "sebastiansbvi",
-      "name": "Sebastian's on the Beach",
-      "url": "https://sebastiansbvi.com",
-      "status": "live",
-      "issues": [],
-      "code": 200,
-      "ms": 144,
-      "visual": {
-        "diff_pct": 74.45
-      },
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "settcoffee": {
-      "slug": "settcoffee",
-      "name": "Sett Coffee",
-      "url": "https://settcoffee.com",
-      "status": "live",
-      "issues": [],
-      "code": 403,
-      "ms": 184,
-      "visual": {
-        "diff_pct": 0
-      },
-      "bot_protected": true,
-      "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
-    },
-    "sharipharmachem": {
-      "slug": "sharipharmachem",
-      "name": "Sharipharmachem",
-      "url": "https://sharipharmachem.world",
       "status": "live",
       "issues": [],
       "code": 403,
@@ -2811,7 +1291,1510 @@
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "getoffourisland": {
+      "slug": "getoffourisland",
+      "name": "Getoffourisland",
+      "url": "https://getoffourisland.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 233,
+      "visual": {
+        "diff_pct": 0.24
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "gibraltarmgt": {
+      "slug": "gibraltarmgt",
+      "name": "The Breton Group",
+      "url": "https://gibraltarmgt.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 764,
+      "visual": {
+        "diff_pct": 0.05
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "granaway": {
+      "slug": "granaway",
+      "name": "Granaway",
+      "url": "https://granaway.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 227,
+      "visual": {
+        "diff_pct": 0.89
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "greenbankbermuda": {
+      "slug": "greenbankbermuda",
+      "name": "Greenbank Bermuda",
+      "url": "https://greenbankbermuda.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 215,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "greenwichhearingaids": {
+      "slug": "greenwichhearingaids",
+      "name": "Greenwich Hearing Aids",
+      "url": "https://greenwichhearingaids.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 300,
+      "visual": {
+        "diff_pct": 36.24
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "hamiltonvillageinn": {
+      "slug": "hamiltonvillageinn",
+      "name": "Hamilton",
+      "url": "https://hamiltonvillageinn.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 416,
+      "visual": {
+        "diff_pct": 0.93
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "hamletinn": {
+      "slug": "hamletinn",
+      "name": "Hamlet Inn",
+      "url": "https://hamletinn.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 324,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "hayharborclub": {
+      "slug": "hayharborclub",
+      "name": "Hay Harbor Club",
+      "url": "https://hayharborclub.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 3069,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "hillcrestgolf": {
+      "slug": "hillcrestgolf",
+      "name": "Hillcrestgolf",
+      "url": "https://hillcrestgolf.net",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 828,
+      "visual": {
+        "diff_pct": 0.13
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "hudsonvalleycharter": {
+      "slug": "hudsonvalleycharter",
+      "name": "Hudson Valley Charter Service",
+      "url": "https://hudsonvalleycharter.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 329,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "ims21": {
+      "slug": "ims21",
+      "name": "Ims21",
+      "url": "https://ims21.net",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 279,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "innathighway1": {
+      "slug": "innathighway1",
+      "name": "Inn at Highway 1",
+      "url": "https://innathighway1.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 299,
+      "visual": {
+        "diff_pct": 10.34
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "insatiableeats": {
+      "slug": "insatiableeats",
+      "name": "Insatiable Eats",
+      "url": "https://insatiableeats.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 186,
+      "visual": {
+        "diff_pct": 6.57
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "jamesportbaysuites": {
+      "slug": "jamesportbaysuites",
+      "name": "Jamesportbaysuites",
+      "url": "https://jamesportbaysuites.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 210,
+      "visual": {
+        "diff_pct": 8.13
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "jcmlaw": {
+      "slug": "jcmlaw",
+      "name": "Jcmlaw",
+      "url": "https://jcmlaw.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 2073,
+      "visual": {
+        "diff_pct": 4.75
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.840Z"
+    },
+    "jladlercarpentry": {
+      "slug": "jladlercarpentry",
+      "name": "Jladlercarpentry",
+      "url": "https://jladlercarpentry.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 461,
+      "visual": {
+        "diff_pct": 0.24
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "jlhtherapy": {
+      "slug": "jlhtherapy",
+      "name": "JLH Therapy",
+      "url": "https://jlhtherapy.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 663,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "jostvandyke": {
+      "slug": "jostvandyke",
+      "name": "Jostvandyke",
+      "url": "https://jostvandyke.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 857,
+      "visual": {
+        "diff_pct": 47.13
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "kennebunkbeachmaine": {
+      "slug": "kennebunkbeachmaine",
+      "name": "Kennebunk Beach Maine",
+      "url": "https://kennebunkbeachmaine.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 614,
+      "visual": {
+        "diff_pct": 7.37
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "kesslerusa": {
+      "slug": "kesslerusa",
+      "name": "Kessler USA",
+      "url": "https://kesslerusa.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 525,
+      "visual": {
+        "diff_pct": 0.99
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "kingshousemotorhotel": {
+      "slug": "kingshousemotorhotel",
+      "name": "Ascend Capital Management",
+      "url": "https://kingshousemotorhotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 339,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "kmss-us": {
+      "slug": "kmss-us",
+      "name": "KM Security Solutions",
+      "url": "https://kmss-us.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 182,
+      "visual": {
+        "diff_pct": 47.77
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "ktelderlaw": {
+      "slug": "ktelderlaw",
+      "name": "Kilbourne & Tully - Elder Law Offices",
+      "url": "https://ktelderlaw.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 256,
+      "visual": {
+        "diff_pct": 53.62
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "liregentsprep": {
+      "slug": "liregentsprep",
+      "name": "Long Island Regents Prep",
+      "url": "https://liregentsprep.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 141,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "littlerichgirl": {
+      "slug": "littlerichgirl",
+      "name": "Littlerichgirl",
+      "url": "https://littlerichgirl.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 191,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "littlesurinn": {
+      "slug": "littlesurinn",
+      "name": "Little Sur Inn",
+      "url": "https://littlesurinn.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 204,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "lodgeatkennebunk": {
+      "slug": "lodgeatkennebunk",
+      "name": "Lodge at Kennebunk",
+      "url": "https://lodgeatkennebunk.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 242,
+      "visual": {
+        "diff_pct": 0.63
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "mannafishfarms": {
+      "slug": "mannafishfarms",
+      "name": "Manna Fish Farms",
+      "url": "https://mannafishfarms.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 272,
+      "visual": {
+        "diff_pct": 80.71
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "mannahamptonsrestaurant": {
+      "slug": "mannahamptonsrestaurant",
+      "name": "Mannahamptonsrestaurant",
+      "url": "https://mannahamptonsrestaurant.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 264,
+      "visual": {
+        "diff_pct": 69.93
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "mannaoceanfoundation": {
+      "slug": "mannaoceanfoundation",
+      "name": "Manna Ocean Foundation",
+      "url": "https://mannaoceanfoundation.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 254,
+      "visual": {
+        "diff_pct": 86.8
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "mannarestaurant": {
+      "slug": "mannarestaurant",
+      "name": "Manna Restaurant",
+      "url": "https://mannarestaurant.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 169,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "mannaseafoodblockchain": {
+      "slug": "mannaseafoodblockchain",
+      "name": "Manna Seafood Blockchain",
+      "url": "https://mannaseafoodblockchain.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 160,
+      "visual": {
+        "diff_pct": 0.03
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "marinerresort": {
+      "slug": "marinerresort",
+      "name": "Marinerresort",
+      "url": "https://marinerresort.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 135,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "mbpoa": {
+      "slug": "mbpoa",
+      "name": "Montauk Beach Property Owners Association",
+      "url": "https://mbpoa.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 185,
+      "visual": {
+        "diff_pct": 43.32
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.841Z"
+    },
+    "meadowviewhousebi": {
+      "slug": "meadowviewhousebi",
+      "name": "Meadowviewhousebi",
+      "url": "https://meadowviewhousebi.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 3294,
+      "visual": {
+        "diff_pct": 0.21
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "meetinghousemarina": {
+      "slug": "meetinghousemarina",
+      "name": "Meetinghousemarina",
+      "url": "https://meetinghousemarina.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 142,
+      "visual": {
+        "diff_pct": 49.61
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "metropolisdiner": {
+      "slug": "metropolisdiner",
+      "name": "Metropolisdiner",
+      "url": "https://metropolisdiner.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 239,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "mistyharborresort": {
+      "slug": "mistyharborresort",
+      "name": "Mistyharborresort",
+      "url": "https://mistyharborresort.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 272,
+      "visual": {
+        "diff_pct": 0.62
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "mondocreations": {
+      "slug": "mondocreations",
+      "name": "Mondo Creations",
+      "url": "https://mondocreations.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 254,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "montaukhouserentals": {
+      "slug": "montaukhouserentals",
+      "name": "Montaukhouserentals",
+      "url": "https://montaukhouserentals.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 327,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "montauklakeclub": {
+      "slug": "montauklakeclub",
+      "name": "Montauk Lake Club",
+      "url": "https://montauklakeclub.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 280,
+      "visual": {
+        "diff_pct": 81.91
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "montaukmanor": {
+      "slug": "montaukmanor",
+      "name": "Montauk Manor",
+      "url": "https://montaukmanor.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 283,
+      "visual": {
+        "diff_pct": 0.02
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "montauksoundview": {
+      "slug": "montauksoundview",
+      "name": "Montauk Soundview",
+      "url": "https://montauksoundview.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 223,
+      "visual": {
+        "diff_pct": 35.67
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "moonstonelanding": {
+      "slug": "moonstonelanding",
+      "name": "Moonstone Landing",
+      "url": "https://moonstonelanding.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 225,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "mountnevishotel": {
+      "slug": "mountnevishotel",
+      "name": "Mountnevishotel",
+      "url": "https://mountnevishotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 300,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "myoysterbi": {
+      "slug": "myoysterbi",
+      "name": "My Oyster",
+      "url": "https://myoysterbi.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 254,
+      "visual": {
+        "diff_pct": 79.71
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "natalestransport": {
+      "slug": "natalestransport",
+      "name": "Natales Transport",
+      "url": "https://natalestransport.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 257,
+      "visual": {
+        "diff_pct": 0.03
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "newrochellept": {
+      "slug": "newrochellept",
+      "name": "New Rochelle Physical Therapy",
+      "url": "https://newrochellept.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 228,
+      "visual": {
+        "diff_pct": 0.21
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "newyorkcateringco": {
+      "slug": "newyorkcateringco",
+      "name": "Newyorkcateringco",
+      "url": "https://newyorkcateringco.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 277,
+      "visual": {
+        "diff_pct": 0.99
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "nfct": {
+      "slug": "nfct",
+      "name": "Nfct",
+      "url": "https://nfct.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 249,
+      "visual": {
+        "diff_pct": 68.36
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "northforkcarwash": {
+      "slug": "northforkcarwash",
+      "name": "Hildeth Advisors",
+      "url": "https://northforkcarwash.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 237,
+      "visual": {
+        "diff_pct": 27.8
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "northharbormontauk": {
+      "slug": "northharbormontauk",
+      "name": "North Harbor Montauk",
+      "url": "https://northharbormontauk.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 235,
+      "visual": {
+        "diff_pct": 0.01
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.842Z"
+    },
+    "oceancliff1and2": {
+      "slug": "oceancliff1and2",
+      "name": "Oceancliff 1 & 2",
+      "url": "https://oceancliff1and2.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 307,
+      "visual": {
+        "diff_pct": 74.35
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "oceanvistaresort": {
+      "slug": "oceanvistaresort",
+      "name": "Oceanvistaresort",
+      "url": "https://oceanvistaresort.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 5721,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "oceanwoodsresort": {
+      "slug": "oceanwoodsresort",
+      "name": "Ocean Woods Resort",
+      "url": "https://oceanwoodsresort.com",
+      "status": "warning",
+      "issues": [
+        "Page body nearly empty"
+      ],
+      "code": 202,
+      "ms": 365,
+      "visual": {
+        "diff_pct": 0.01
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "ogunquithotels": {
+      "slug": "ogunquithotels",
+      "name": "Ogunquithotels",
+      "url": "https://ogunquithotels.net",
+      "status": "warning",
+      "issues": [
+        "Visual change 45.83% vs baseline"
+      ],
+      "code": 403,
+      "ms": 410,
+      "visual": {
+        "diff_pct": 45.83
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "oldorchardbeachlodging": {
+      "slug": "oldorchardbeachlodging",
+      "name": "Old Orchard Beach",
+      "url": "https://oldorchardbeachlodging.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 89.66% vs baseline"
+      ],
+      "code": 403,
+      "ms": 422,
+      "visual": {
+        "diff_pct": 89.66
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "olympia-vt": {
+      "slug": "olympia-vt",
+      "name": "Oympia Lodge",
+      "url": "https://olympia-vt.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 74.38% vs baseline"
+      ],
+      "code": 403,
+      "ms": 453,
+      "visual": {
+        "diff_pct": 74.38
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "onmontauk": {
+      "slug": "onmontauk",
+      "name": "Onmontauk",
+      "url": "https://onmontauk.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 488,
+      "visual": {
+        "diff_pct": 0.02
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "onthebeachmotel": {
+      "slug": "onthebeachmotel",
+      "name": "Onthebeachmotel",
+      "url": "https://onthebeachmotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 420,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "oquossoccountrysuites": {
+      "slug": "oquossoccountrysuites",
+      "name": "Oquossoc Country Suites",
+      "url": "https://oquossoccountrysuites.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 57.19% vs baseline"
+      ],
+      "code": 403,
+      "ms": 396,
+      "visual": {
+        "diff_pct": 57.19
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "oshuckscatering": {
+      "slug": "oshuckscatering",
+      "name": "O’Shucks Catering",
+      "url": "https://oshuckscatering.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 442,
+      "visual": {
+        "diff_pct": 21.03
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "outeastmgmt": {
+      "slug": "outeastmgmt",
+      "name": "Out East Management",
+      "url": "https://outeastmgmt.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 525,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "paintedrockdesigns": {
+      "slug": "paintedrockdesigns",
+      "name": "Paintedrockdesigns",
+      "url": "https://paintedrockdesigns.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 703,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "paintedrockfloraldesigns": {
+      "slug": "paintedrockfloraldesigns",
+      "name": "Painted Rock Designs",
+      "url": "https://paintedrockfloraldesigns.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 422,
+      "visual": {
+        "diff_pct": 3.91
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "palmamiamibeach": {
+      "slug": "palmamiamibeach",
+      "name": "Palmamiamibeach",
+      "url": "https://palmamiamibeach.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 408,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "papkeproperties": {
+      "slug": "papkeproperties",
+      "name": "Papke Properties",
+      "url": "https://papkeproperties.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 406,
+      "visual": {
+        "diff_pct": 0.01
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "paradisevacationsuites": {
+      "slug": "paradisevacationsuites",
+      "name": "Paradisevacationsuites",
+      "url": "https://paradisevacationsuites.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 404,
+      "visual": {
+        "diff_pct": 15.51
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "paragonct": {
+      "slug": "paragonct",
+      "name": "Paragonct",
+      "url": "https://paragonct.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 406,
+      "visual": {
+        "diff_pct": 0
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "paynesharborviewinn": {
+      "slug": "paynesharborviewinn",
+      "name": "Payne's Harbor View Inn",
+      "url": "https://paynesharborviewinn.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 350,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "pcresortandclub": {
+      "slug": "pcresortandclub",
+      "name": "Panama City Resort and Club",
+      "url": "https://pcresortandclub.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 284,
+      "visual": {
+        "diff_pct": 0.06
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "peaksandocean": {
+      "slug": "peaksandocean",
+      "name": "Peaksandocean",
+      "url": "https://peaksandocean.ca",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 271,
+      "visual": {
+        "diff_pct": 0.02
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.843Z"
+    },
+    "pelhambayhomecenter": {
+      "slug": "pelhambayhomecenter",
+      "name": "Pelham Bay Home Center",
+      "url": "https://pelhambayhomecenter.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 249,
+      "visual": {
+        "diff_pct": 1.01
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "pinkb": {
+      "slug": "pinkb",
+      "name": "Pinkb",
+      "url": "https://pinkb.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 262,
+      "visual": {
+        "diff_pct": 8.72
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "pinkpalmhotel": {
+      "slug": "pinkpalmhotel",
+      "name": "Pinkpalmhotel",
+      "url": "https://pinkpalmhotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 293,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "pjspubnarragansett": {
+      "slug": "pjspubnarragansett",
+      "name": "Pjspubnarragansett",
+      "url": "https://pjspubnarragansett.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 280,
+      "visual": {
+        "diff_pct": 0.05
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "pompetteflagstaff": {
+      "slug": "pompetteflagstaff",
+      "name": "Pompetteflagstaff",
+      "url": "https://pompetteflagstaff.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 300,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "portsofcallresort": {
+      "slug": "portsofcallresort",
+      "name": "Ports of Call Resort",
+      "url": "https://portsofcallresort.com",
+      "status": "warning",
+      "issues": [
+        "HTTP 403"
+      ],
+      "code": 403,
+      "ms": 630,
+      "visual": {
+        "diff_pct": 0.1
+      },
+      "uptime_pct": 95.5,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "portsofcallvillas": {
+      "slug": "portsofcallvillas",
+      "name": "Ports of Call Villas",
+      "url": "https://portsofcallvillas.com",
+      "status": "warning",
+      "issues": [
+        "HTTP 403"
+      ],
+      "code": 403,
+      "ms": 601,
+      "visual": {
+        "diff_pct": 0.16
+      },
+      "uptime_pct": 95.5,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "premier-flight": {
+      "slug": "premier-flight",
+      "name": "Premier Flight",
+      "url": "https://premier-flight.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 76% vs baseline"
+      ],
+      "code": 403,
+      "ms": 296,
+      "visual": {
+        "diff_pct": 76
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "providenceoysterbar": {
+      "slug": "providenceoysterbar",
+      "name": "Providenceoysterbar",
+      "url": "https://providenceoysterbar.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 376,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "quickstepmarine": {
+      "slug": "quickstepmarine",
+      "name": "Quick Step Marine",
+      "url": "https://quickstepmarine.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 338,
+      "visual": {
+        "diff_pct": 0.09
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "redbarnhomemade": {
+      "slug": "redbarnhomemade",
+      "name": "Redbarnhomemade",
+      "url": "https://redbarnhomemade.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 61.29% vs baseline"
+      ],
+      "code": 403,
+      "ms": 337,
+      "visual": {
+        "diff_pct": 61.29
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "redsquirrellodge": {
+      "slug": "redsquirrellodge",
+      "name": "Redsquirrellodge",
+      "url": "https://redsquirrellodge.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 56.9% vs baseline"
+      ],
+      "code": 403,
+      "ms": 304,
+      "visual": {
+        "diff_pct": 56.9
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "rendezvousbayhotel": {
+      "slug": "rendezvousbayhotel",
+      "name": "Rendezvous Bay Hotel",
+      "url": "https://www.rendezvousbayhotel.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 91.72% vs baseline"
+      ],
+      "code": 200,
+      "ms": 633,
+      "visual": {
+        "diff_pct": 91.72
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "rhumblinemaine": {
+      "slug": "rhumblinemaine",
+      "name": "Rhumblinemaine",
+      "url": "https://rhumblinemaine.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 293,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "riomexicancafe": {
+      "slug": "riomexicancafe",
+      "name": "Riomexicancafe",
+      "url": "https://riomexicancafe.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 187,
+      "visual": {
+        "diff_pct": 20.54
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "robertnewmanonline": {
+      "slug": "robertnewmanonline",
+      "name": "Robert Newman",
+      "url": "https://robertnewmanonline.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 39.56% vs baseline"
+      ],
+      "code": 403,
+      "ms": 189,
+      "visual": {
+        "diff_pct": 39.56
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "roccogiftcard": {
+      "slug": "roccogiftcard",
+      "name": "Roccos Gift Card",
+      "url": "https://roccogiftcard.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 240,
+      "visual": {
+        "diff_pct": 0.1
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "rosefarminn": {
+      "slug": "rosefarminn",
+      "name": "The Rose Farm Inn",
+      "url": "https://rosefarminn.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 190,
+      "visual": {
+        "diff_pct": 0.33
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "royalatlantic": {
+      "slug": "royalatlantic",
+      "name": "Royal Atlantic",
+      "url": "https://royalatlantic.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 224,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "sandsoob": {
+      "slug": "sandsoob",
+      "name": "Sandsoob",
+      "url": "https://sandsoob.com",
+      "status": "warning",
+      "issues": [
+        "Visual change 65.07% vs baseline"
+      ],
+      "code": 200,
+      "ms": 5486,
+      "visual": {
+        "diff_pct": 65.07
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.844Z"
+    },
+    "sbmotel": {
+      "slug": "sbmotel",
+      "name": "Sbmotel",
+      "url": "https://sbmotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 233,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "seachambers": {
+      "slug": "seachambers",
+      "name": "Seachambers",
+      "url": "https://seachambers.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 3129,
+      "visual": {
+        "diff_pct": 69.76
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "searosesuites": {
+      "slug": "searosesuites",
+      "name": "Searosesuites",
+      "url": "https://searosesuites.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 292,
+      "visual": {
+        "diff_pct": 6.14
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "seashellcapecod": {
+      "slug": "seashellcapecod",
+      "name": "Sea Shell Motel - Cape Cod",
+      "url": "https://seashellcapecod.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 278,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "seaviewmotel": {
+      "slug": "seaviewmotel",
+      "name": "Sea View Motel",
+      "url": "https://seaviewmotel.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 266,
+      "visual": {
+        "diff_pct": 50.16
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "sebastiansbvi": {
+      "slug": "sebastiansbvi",
+      "name": "Sebastian's on the Beach",
+      "url": "https://sebastiansbvi.com",
+      "status": "live",
+      "issues": [],
+      "code": 200,
+      "ms": 261,
+      "visual": {
+        "diff_pct": 74.45
+      },
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "settcoffee": {
+      "slug": "settcoffee",
+      "name": "Sett Coffee",
+      "url": "https://settcoffee.com",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 253,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
+    },
+    "sharipharmachem": {
+      "slug": "sharipharmachem",
+      "name": "Sharipharmachem",
+      "url": "https://sharipharmachem.world",
+      "status": "live",
+      "issues": [],
+      "code": 403,
+      "ms": 192,
+      "visual": {
+        "diff_pct": 0
+      },
+      "bot_protected": true,
+      "uptime_pct": 100,
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "shawmont": {
       "slug": "shawmont",
@@ -2820,13 +2803,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 214,
+      "ms": 254,
       "visual": {
         "diff_pct": 49.4
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "sheffieldhousebi": {
       "slug": "sheffieldhousebi",
@@ -2835,13 +2818,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 101,
+      "ms": 188,
       "visual": {
         "diff_pct": 0.16
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "shinnecocklobsterfactory": {
       "slug": "shinnecocklobsterfactory",
@@ -2850,13 +2833,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 134,
+      "ms": 209,
       "visual": {
         "diff_pct": 48.5
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "shoreroadmarina": {
       "slug": "shoreroadmarina",
@@ -2865,12 +2848,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 433,
+      "ms": 496,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "shortlinelots": {
       "slug": "shortlinelots",
@@ -2879,13 +2862,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 199,
+      "ms": 222,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "shuttersonthebanks": {
       "slug": "shuttersonthebanks",
@@ -2894,12 +2877,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 230,
+      "ms": 195,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "skysqueegee": {
       "slug": "skysqueegee",
@@ -2908,13 +2891,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 232,
+      "ms": 152,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.717Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "soleeast": {
       "slug": "soleeast",
@@ -2923,12 +2906,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 953,
+      "ms": 899,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "southamptoninn": {
       "slug": "southamptoninn",
@@ -2937,13 +2920,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 210,
+      "ms": 154,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "southoldbeachmotel": {
       "slug": "southoldbeachmotel",
@@ -2954,11 +2937,11 @@
         "UND_ERR_CONNECT_TIMEOUT"
       ],
       "code": 0,
-      "ms": 10087,
+      "ms": 10110,
       "visual": null,
-      "down_streak": 20,
-      "uptime_pct": 4.8,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "down_streak": 21,
+      "uptime_pct": 4.5,
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "springhousehotel": {
       "slug": "springhousehotel",
@@ -2967,13 +2950,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 313,
+      "ms": 666,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "stevenbofill": {
       "slug": "stevenbofill",
@@ -2982,14 +2965,14 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 168,
+      "ms": 338,
       "visual": {
         "diff_pct": 0,
         "baseline_reset": true
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.845Z"
     },
     "tanglwoodresorts": {
       "slug": "tanglwoodresorts",
@@ -2998,13 +2981,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 85,
+      "ms": 331,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "taracosta": {
       "slug": "taracosta",
@@ -3013,13 +2996,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 91,
+      "ms": 328,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "terracebythesea": {
       "slug": "terracebythesea",
@@ -3028,13 +3011,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 62,
+      "ms": 206,
       "visual": {
         "diff_pct": 3.61
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "terracecottagecolony": {
       "slug": "terracecottagecolony",
@@ -3043,14 +3026,14 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 97,
+      "ms": 223,
       "visual": {
         "diff_pct": 0,
         "baseline_reset": true
       },
       "bot_protected": true,
-      "uptime_pct": 47.6,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "uptime_pct": 50,
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theanchormotel": {
       "slug": "theanchormotel",
@@ -3059,13 +3042,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 99,
+      "ms": 255,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theatlantichouse": {
       "slug": "theatlantichouse",
@@ -3074,13 +3057,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 176,
+      "ms": 256,
       "visual": {
         "diff_pct": 0.8
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theautobodyshopny": {
       "slug": "theautobodyshopny",
@@ -3089,14 +3072,14 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 202,
+      "ms": 195,
       "visual": {
         "diff_pct": 0,
         "baseline_reset": true
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thebretongroup": {
       "slug": "thebretongroup",
@@ -3105,13 +3088,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 160,
+      "ms": 125,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theellsworthhotel": {
       "slug": "theellsworthhotel",
@@ -3120,13 +3103,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 104,
+      "ms": 142,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thefortescape": {
       "slug": "thefortescape",
@@ -3137,11 +3120,11 @@
         "ENOTFOUND"
       ],
       "code": 0,
-      "ms": 37,
+      "ms": 133,
       "visual": null,
-      "down_streak": 20,
-      "uptime_pct": 4.8,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "down_streak": 21,
+      "uptime_pct": 4.5,
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thegarlandscapecod": {
       "slug": "thegarlandscapecod",
@@ -3150,13 +3133,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 80,
+      "ms": 129,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thegrandhotel": {
       "slug": "thegrandhotel",
@@ -3165,13 +3148,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 86,
+      "ms": 145,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thekaskadeshotel": {
       "slug": "thekaskadeshotel",
@@ -3180,13 +3163,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 93,
+      "ms": 134,
       "visual": {
         "diff_pct": 0.61
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thekendrickhotel": {
       "slug": "thekendrickhotel",
@@ -3195,13 +3178,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 96,
+      "ms": 155,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theluxuryvacationguide": {
       "slug": "theluxuryvacationguide",
@@ -3210,13 +3193,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 115,
+      "ms": 173,
       "visual": {
         "diff_pct": 0.63
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theneptuneinn": {
       "slug": "theneptuneinn",
@@ -3225,13 +3208,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 75,
+      "ms": 224,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thenorthernpines": {
       "slug": "thenorthernpines",
@@ -3240,13 +3223,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 128,
+      "ms": 218,
       "visual": {
         "diff_pct": 32.06
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theredinn": {
       "slug": "theredinn",
@@ -3255,13 +3238,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 87,
+      "ms": 256,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "theseastar": {
       "slug": "theseastar",
@@ -3270,13 +3253,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 151,
+      "ms": 254,
       "visual": {
         "diff_pct": 29.25
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thesuccessiongroup": {
       "slug": "thesuccessiongroup",
@@ -3285,13 +3268,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 88,
+      "ms": 134,
       "visual": {
         "diff_pct": 0.02
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thesullivanhouse": {
       "slug": "thesullivanhouse",
@@ -3300,13 +3283,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 88,
+      "ms": 196,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.846Z"
     },
     "thesurflodge": {
       "slug": "thesurflodge",
@@ -3315,13 +3298,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 170,
+      "ms": 135,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.718Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "thetipperaryinn": {
       "slug": "thetipperaryinn",
@@ -3330,13 +3313,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 75,
+      "ms": 155,
       "visual": {
         "diff_pct": 68.84
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "thewanderlusteffect": {
       "slug": "thewanderlusteffect",
@@ -3345,14 +3328,14 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 66,
+      "ms": 166,
       "visual": {
         "diff_pct": 0,
         "baseline_reset": true
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "treehouseexoticrentals": {
       "slug": "treehouseexoticrentals",
@@ -3361,13 +3344,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 146,
+      "ms": 163,
       "visual": {
         "diff_pct": 51.43
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "upperkeysrentals": {
       "slug": "upperkeysrentals",
@@ -3376,13 +3359,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 152,
+      "ms": 189,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "vengolabs": {
       "slug": "vengolabs",
@@ -3391,12 +3374,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 437,
+      "ms": 481,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "villasatsouthgate": {
       "slug": "villasatsouthgate",
@@ -3405,12 +3388,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 516,
+      "ms": 631,
       "visual": {
         "diff_pct": 0
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "waveaerospace": {
       "slug": "waveaerospace",
@@ -3419,12 +3402,12 @@
       "status": "live",
       "issues": [],
       "code": 200,
-      "ms": 2142,
+      "ms": 265,
       "visual": {
         "diff_pct": 7.22
       },
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "wavecrestonocean": {
       "slug": "wavecrestonocean",
@@ -3433,13 +3416,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 154,
+      "ms": 230,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "westlake-marina": {
       "slug": "westlake-marina",
@@ -3448,14 +3431,14 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 136,
+      "ms": 275,
       "visual": {
         "diff_pct": 0,
         "baseline_reset": true
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "windsongresidences": {
       "slug": "windsongresidences",
@@ -3464,13 +3447,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 93,
+      "ms": 214,
       "visual": {
         "diff_pct": 75.16
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "wrc-nyc": {
       "slug": "wrc-nyc",
@@ -3479,13 +3462,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 89,
+      "ms": 119,
       "visual": {
         "diff_pct": 13.14
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     },
     "yorkharborinn": {
       "slug": "yorkharborinn",
@@ -3494,13 +3477,13 @@
       "status": "live",
       "issues": [],
       "code": 403,
-      "ms": 274,
+      "ms": 133,
       "visual": {
         "diff_pct": 0
       },
       "bot_protected": true,
       "uptime_pct": 100,
-      "checked_at": "2026-09-09T22:08:36.719Z"
+      "checked_at": "2026-09-10T00:44:40.847Z"
     }
   }
 }
