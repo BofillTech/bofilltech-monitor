@@ -255,6 +255,14 @@ const out = {
   generated_at: new Date().toISOString(),
   sites: Object.fromEntries(final.map(r => [r.slug, r])),
 };
+// prune state + screenshots for sites no longer in sites.json (removed manually or by sheet-sync)
+const validSlugs = new Set(cfg.sites.map(s => s.slug));
+for (const k of Object.keys(history)) if (!validSlugs.has(k)) delete history[k];
+for (const dir of [shotsDir, baseDir]) {
+  for (const f of fs.readdirSync(dir)) {
+    if (f.endsWith('.png') && !validSlugs.has(f.replace(/\.png$/, ''))) fs.unlinkSync(path.join(dir, f));
+  }
+}
 fs.writeFileSync(path.join(dataDir, 'status.json'), JSON.stringify(out, null, 2));
 fs.writeFileSync(path.join(dataDir, 'history.json'), JSON.stringify(history));
 
