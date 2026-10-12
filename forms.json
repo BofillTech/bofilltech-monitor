@@ -1,7 +1,10 @@
 {
   "settings": {
     "mode": "pilot",
-    "pilot": [],
+    "pilot": [
+      "bofilltech",
+      "mondocreations"
+    ],
     "formcheck_email": "formcheck@bofilltech.com",
     "sender_name_first": "Bofill",
     "sender_name_last": "Form Test",
@@ -13,8 +16,18 @@
       "url": "https://bofilltech.com",
       "discovered_at": "2026-10-12T17:37:59.022Z",
       "wordpress": true,
-      "status": "no_form",
-      "note": "No contact form found on homepage or likely contact pages"
+      "status": "found",
+      "note": "Set by hand: discovery missed the Fluent Forms form (reCAPTCHA v3) on /contact/",
+      "form_url": "https://bofilltech.com/contact/",
+      "form_selector": "form#fluentform_3",
+      "form_index": 0,
+      "plugin": "fluentforms",
+      "captcha": [
+        "recaptcha"
+      ],
+      "has_textarea": true,
+      "helper_plugin": false,
+      "locked": true
     },
     "mondocreations": {
       "name": "Mondo Creations",
