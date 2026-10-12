@@ -7,5 +7,36 @@
     "sender_name_last": "Form Test",
     "phone": "2035550100"
   },
-  "sites": {}
+  "sites": {
+    "bofilltech": {
+      "name": "Bofill Tech",
+      "url": "https://bofilltech.com",
+      "discovered_at": "2026-10-12T17:37:59.022Z",
+      "wordpress": true,
+      "status": "no_form",
+      "note": "No contact form found on homepage or likely contact pages"
+    },
+    "mondocreations": {
+      "name": "Mondo Creations",
+      "url": "https://mondocreations.com",
+      "discovered_at": "2026-10-12T17:37:59.023Z",
+      "status": "found",
+      "wordpress": true,
+      "form_url": "https://mondocreations.com/contact/",
+      "form_selector": "form#fluentform_1",
+      "form_index": 0,
+      "plugin": "fluentforms",
+      "captcha": [],
+      "has_textarea": true,
+      "fields": [
+        "input:text* name name input_text ff_1_input_text",
+        "input:text company company subject ff_1_subject",
+        "input:email* email email email ff_1_email",
+        "input:tel phone phone phone ff_1_phone",
+        "input:text need date need date need date use arrow ",
+        "textarea* your message your message your message m"
+      ],
+      "helper_plugin": false
+    }
+  }
 }
