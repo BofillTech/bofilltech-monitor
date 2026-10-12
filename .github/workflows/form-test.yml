@@ -1,0 +1,75 @@
+name: form-test
+
+# Weekly contact-form test. See setup/FORM-TEST.md
+on:
+  schedule:
+    - cron: '0 1 * * 1'    # Monday 01:00 UTC = Sunday 9pm Eastern (8pm in winter): submit test messages
+    - cron: '0 12 * * 1'   # Monday 12:00 UTC = 8am Eastern (7am in winter): check inbox + email the weekly report
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'submit = send test messages, verify = check inbox and email the report'
+        type: choice
+        options: [submit, verify]
+        default: submit
+      only:
+        description: 'Only these site IDs, comma-separated (blank = pilot list or all, per forms.json)'
+        type: string
+        default: ''
+      dry_run:
+        description: 'Dry run: fill the forms and screenshot them, but do NOT submit'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: form-test
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install deps
+        working-directory: monitor
+        run: npm install --no-audit --no-fund
+
+      - name: Run
+        env:
+          FORMTEST_SECRET: ${{ secrets.FORMTEST_SECRET }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+          FORMCHECK_IMAP_USER: ${{ secrets.FORMCHECK_IMAP_USER }}
+          FORMCHECK_IMAP_PASS: ${{ secrets.FORMCHECK_IMAP_PASS }}
+          FORMCHECK_IMAP_HOST: ${{ secrets.FORMCHECK_IMAP_HOST }}
+          ONLY: ${{ inputs.only }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+        run: |
+          ACTION="${{ inputs.action }}"
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "${{ github.event.schedule }}" = "0 12 * * 1" ]; then ACTION=verify; else ACTION=submit; fi
+          fi
+          echo "Action: $ACTION  dry_run: $DRY_RUN  only: ${ONLY:-<per forms.json>}"
+          node monitor/forms/test.mjs "$ACTION"
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "visualmonitor-bot"
+          git config user.email "steve@bofilltech.com"
+          git add data/forms-status.json data/forms-history.json shots/forms 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "form-test: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1

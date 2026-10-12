@@ -1,0 +1,54 @@
+name: form-discover
+
+# Finds each site's contact form and records it in forms.json. Never submits anything.
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Only these site IDs, comma-separated (blank = every site not yet in forms.json)'
+        type: string
+        default: ''
+      refresh:
+        description: 'Re-check sites already in forms.json (entries marked "locked" are never changed)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: form-test
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install deps
+        working-directory: monitor
+        run: npm install --no-audit --no-fund
+
+      - name: Discover forms
+        env:
+          ONLY: ${{ inputs.only }}
+          REFRESH: ${{ inputs.refresh }}
+          CONCURRENCY: '4'
+        run: node monitor/forms/discover.mjs
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "visualmonitor-bot"
+          git config user.email "steve@bofilltech.com"
+          git add forms.json data/forms-discovery-report.md 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "form-discover: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1
