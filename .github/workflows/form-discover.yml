@@ -50,5 +50,5 @@ jobs:
           git add forms.json data/forms-discovery-report.md 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "form-discover: $(date -u +'%Y-%m-%d %H:%M') UTC"
-          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          for i in 1 2 3; do git pull --rebase --autostash origin main && git push && exit 0; sleep 5; done
           exit 1
